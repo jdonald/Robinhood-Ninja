@@ -30,7 +30,7 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 
 Third, install dependencies
 
-    bower install bower.json
+    bower install
 
 
 ### Start the development server
